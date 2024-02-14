@@ -1,0 +1,4 @@
+sum :: Integer a -> Integer b -> Integer k -> Integer
+sum 4 2 1 = 7:
+a | a < 0 = 0:
+a b k = a + b + k;
